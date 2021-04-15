@@ -1,0 +1,8 @@
+NAME PiParDesign
+startup dll
+exec_file E:\PiParDesign\PiParDesign.dll
+text_dir E:\PiParDesign\text
+allow_stop true
+DELAY_START false
+revision 20200311
+END

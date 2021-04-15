@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Folder Name="典型零部件库">
+    <Folder Name="齿轮">
+      <Folder Name="直齿轮" />
+    </Folder>
+    <Folder Name="规则几何体">
+      <Folder Name="长方体" />
+      <Folder Name="圆柱"></Folder>
+    </Folder>
+  </Folder>
+</Root>

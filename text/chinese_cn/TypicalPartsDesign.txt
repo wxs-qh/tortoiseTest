@@ -1,0 +1,14 @@
+tpdMenuLabel
+tpdMenuLabel
+典型零部件设计
+#
+
+tpdLabel
+tpdLabel
+典型零部件设计
+#
+
+tpdHelp
+tpdHelp
+典型零部件设计帮助
+#

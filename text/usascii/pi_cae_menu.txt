@@ -1,0 +1,63 @@
+﻿CAEMenu
+PiCAE
+仿真辅助工具
+模擬輔助工具
+
+CAEAssemblyCreateLabel
+CAEAssemblyCreate
+仿真总装生成
+仿真总装生成
+
+CAEAssemblyCreateHelp
+CAEAssemblyCreate
+仿真总装生成
+仿真总装生成
+
+
+
+WeldStressGenerateLabel
+WeldStressGenerate
+焊缝生成
+焊縫生成
+
+
+WeldStressGenerateHelp
+A solid part and weld stress solids will be generated automatically according to the interface of components
+根据元件相互贴合面自动生成整体实体零件以及焊缝实体以供进行
+根據元件相互貼合面自動生成整體實體零件以及焊縫實體以供進行
+
+%CPPISX %0w
+%0w
+#
+
+%CIPISX %0w
+%0w
+#
+
+%CWPISX %0w
+%0w
+#
+
+%CEPISX %0w
+%0w
+#
+
+%CEPISX Error: %0d
+%0d
+#
+
+%CPPISX PROMPT %0w
+%0w
+#
+
+%CIPISX INFOR %0w
+%0w
+#
+
+%CWPISX WARNING %0w
+%0w
+#
+
+%CEPISX ERROR %0w
+%0w
+#

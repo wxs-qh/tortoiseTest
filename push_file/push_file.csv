@@ -1,0 +1,9 @@
+源文件,目标路径,备注
+$picreo_path$\push_file\obj\libxl.dll,$creo_path$Common Files\x86e_win64\obj,PiCreo安装路径到Creo安装路径的推送。
+$picreo_path$\push_file\obj\Qt5Core.dll,$creo_path$Common Files\x86e_win64\obj,PiCreo安装路径到Creo安装路径的推送。
+$picreo_path$\push_file\obj\Qt5Gui.dll,$creo_path$Common Files\x86e_win64\obj,PiCreo安装路径到Creo安装路径的推送。
+$picreo_path$\push_file\obj\Qt5Network.dll,$creo_path$Common Files\x86e_win64\obj,PiCreo安装路径到Creo安装路径的推送。
+$picreo_path$\push_file\obj\Qt5Widgets.dll,$creo_path$Common Files\x86e_win64\obj,PiCreo安装路径到Creo安装路径的推送。
+$picreo_path$\push_file\obj\Qt5Xml.dll,$creo_path$Common Files\x86e_win64\obj,PiCreo安装路径到Creo安装路径的推送。
+$picreo_path$\push_file\obj\platforms\qminimal.dll,$creo_path$Common Files\x86e_win64\obj\platforms,PiCreo安装路径到Creo安装路径的推送。
+$picreo_path$\push_file\obj\platforms\qwindows.dll,$creo_path$Common Files\x86e_win64\obj\platforms,PiCreo安装路径到Creo安装路径的推送。
